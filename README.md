@@ -15,6 +15,8 @@ A scientifically-inspired, visually cinematic black hole simulation built entire
 Inspired by the visual effects of **Gargantua** from Christopher Nolan's *Interstellar* (2014), which was itself based on real astrophysics research by Kip Thorne.
 
 ---
+- Intel Pentium + iGPU = boot loop (visually confirmed)
+---
 
 ## features
 
