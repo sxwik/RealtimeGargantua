@@ -17,6 +17,9 @@ Inspired by the visual effects of **Gargantua** from Christopher Nolan's *Inters
 ---
 - Intel Pentium + iGPU = boot loop (visually confirmed)
 ---
+![Gargantua Preview](preview.png)
+---
+
 
 ## features
 
