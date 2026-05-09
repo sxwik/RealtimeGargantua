@@ -68,7 +68,7 @@ The most striking visual consequence: light from the back of the accretion disk 
 No build step. No npm install. Just open `index.html` in a browser with WebGL2 support.
 
 ```bash
-git clone https://github.com/yourusername/gargantua
+git clone https://github.com/sxwik/gargantua
 cd gargantua
 # open index.html in Chrome / Firefox / Edge
 ```
