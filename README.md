@@ -19,8 +19,10 @@ Inspired by the visual effects of **Gargantua** from Christopher Nolan's *Inters
 ---
 ![Gargantua Preview](preview.png)
 ---
-
-
+>  **[Live Demo → sxwik.github.io/RealtimeGargantua](https://sxwik.github.io/RealtimeGargantua/)**
+> 
+>  Warning: May crash your browser. Will definitely kill your battery. Do not open on Intel Pentium.
+---
 ## features
 
 - **Gravitational lensing** — rays bend around the singularity using Schwarzschild metric approximation, causing the back of the accretion disk to appear above the shadow as a ghost arc
