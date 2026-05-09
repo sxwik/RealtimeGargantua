@@ -1,0 +1,6 @@
+{
+  "name": "4D Tesseract Experience",
+  "description": "An immersive 4D hypercube visualization rendering real-time mathematics using React Three Fiber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
